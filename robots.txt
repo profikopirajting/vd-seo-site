@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vd-seo.com.ua/sitemap.xml
