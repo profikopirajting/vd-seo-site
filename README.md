@@ -11,3 +11,5 @@ Static website for https://vd-seo.com.ua (Ukrainian and Russian).
 **Deployment note:** Uploading this repository to GitHub does NOT automatically update the existing Cloudflare Worker. Deployment requires connecting a build/deployment mechanism or using Cloudflare Pages with a separate custom-domain migration. Do not change DNS until the replacement deployment is verified.
 
 After a live deployment, test the form and confirm Gmail receipt. Telegram notifications for form submissions are not configured; the floating Telegram contact link works independently.
+
+Cloudflare Workers deployment connected to GitHub.
