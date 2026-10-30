@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-```javascript
+
 // VD SEO: cookie consent
 (() => {
   const key = 'vd_seo_ads_consent';
@@ -197,4 +197,3 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.appendChild(settings);
   });
 })();
-```
